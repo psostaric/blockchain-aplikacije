@@ -1,9 +1,9 @@
-# Naziv projekta
+# Sustav za izdavanje i prodaju ulaznica
 
-Autor: Ime Prezime
+Autor: Patricia Šoštarić
 
-JMBAG:
+JMBAG:0009074011
 
-Oblik: Redovan/Online
+Oblik: Online
 
-Jedna rečenica: što aplikacija radi i za koju zajednicu.
+Jedna rečenica: Decentralizirani sustav za izdavanje ulaznica za događaje i njihovu prodaju i preprodaju. Sustav je za sve koji žele sigurnost i autentičnost te regulaciju preprodaje postavljajući najvišu cijenu preprodaje.
