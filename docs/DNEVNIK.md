@@ -2,9 +2,9 @@
 
 ## T1 — Postavljanje projekta (18.11.2026.)
 - Cilj termina: Napraviti 1. etapu tj. postaviti što nije postavljeno na predavanju.
-- Najkorisniji prompt (kopiran u cijelosti):
-- Što je AI napravio dobro:
-- Što je AI napravio drugačije nego što sam očekivao:
+- Niša: Decentralizirani sustav za izdavanje ulaznica za događaje i njihovu prodaju i preprodaju. Sustav je za sve koji žele sigurnost i autentičnost te regulaciju preprodaje postavljajući najvišu cijenu preprodaje.
+- Modul: Članska iskaznica (NFT)
+- Tri odbijena prijedloga: 1. Ubacivanje prijave problema u sustav jer to zahtijeva ekstra funkcionalnosti i dosta logike za koju sumnjam da ću imati vremena, a i smatram da nije potrebna za opseg studentskog projekta; 2. Da organizator može tijekom procesa prodaje ulaznica povlačiti novac uz objašnjenje da možda neće moći platiti dvoranu - odbijeno jer smatram da organizator mora imati novce za događaj, a onda se nakon njegovog održavanja pokriva njime; 3. Veće ovlasti osoblju na ulazu - nepotrebno, njihova funkcionalnost je da samo provjere valjanost ulaznice na ulazu.
 - Što sam dodao u AGENTS.md:
 - Provjera:
 - Commit:
